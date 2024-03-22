@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eletrical Comsumption</string>
+    <string name="title">Calcule o Consumo do Ar-Condicionado</string>
+    <string name="power_label">Potência(W)</string>
+    <string name="hour_label">Horas</string>
+    <string name="days_label">Dias</string>
+    <string name="value_days_label">Valor Kw/h da sua cidade</string>
+    <string name="title_button">Calcular Consumo</string>
+    <string name="power_placeholder">Ex : 1000</string>
+    <string name="hours_placeholder">Ex : 8</string>
+    <string name="days_placeholder">Ex : 30</string>
+    <string name="kwH_placeholder">Ex : 0.800</string>
+    <string name="result_title">"Seu Consumo foi de : "</string>
+</resources>
